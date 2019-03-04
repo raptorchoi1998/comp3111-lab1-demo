@@ -1,0 +1,41 @@
+ELECTRONIC HANDIN FOR THE 02450 EXAM FALL 2018
+
+The exam is multiple choice. All questions have four possible answers marked by the letters A, B, C, and D as well as the answer “Don’t know?marked by the letter E. Correct answer gives 3 points, wrong answer gives -1 point, and “Don’t know?(E) gives 0 points.
+
+The individual questions are answered by replacing the question marks '?' at each of the 27 questions with one of the letters A, B, C, D, or E.
+
+Please do not change the file format or write additional comments asides your student number and your answers in terms of the letters A,B,C,D or E for each of the questions. 
+
+PLEASE ONLY USE THE PAPER FRONT PAGE FOR HANDIN UNDER THE EXTRAORDINARY CIRCUMSTANCE THAT YOU ARE UNABLE TO HAND IN DIGITALLY USING THIS SYSTEM.
+
+Student number: 181449
+
+Q01: C
+Q02: A
+Q03: D
+Q04: B
+Q05: E
+Q06: C
+Q07: B
+Q08: D
+Q09: B
+Q10: D
+
+Q11: A
+Q12: A
+Q13: C
+Q14: D
+Q15: B
+Q16: B
+Q17: C
+Q18: D
+Q19: A
+Q20: B
+
+Q21: E
+Q22: B
+Q23: D
+Q24: A
+Q25: B
+Q26: D
+Q27: B
